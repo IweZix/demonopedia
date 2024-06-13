@@ -3,7 +3,7 @@
     <div class="container p-4">
       <div class="row">
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-          <h5 class="text-uppercase">Demonopédia</h5>
+          <h5 class="text-uppercase">Demonopedia</h5>
           <p>Your favorite encyclopedia about demons.</p>
         </div>
 
@@ -26,7 +26,7 @@
           <h5 class="text-uppercase">project</h5>
           <ul class="list-unstyled mb-0">
             <li>
-              <a href="https://github.com/IweZix/demonopedia/frontend" class="">Frontend</a>
+              <a href="https://github.com/IweZix/demonopedia" class="">Frontend</a>
             </li>
             <li>
               <a href="https://github.com/IweZix/demonopedia/api" class="">API</a>

@@ -42,7 +42,7 @@ export default {
     <p>You can find the source codes for the frontend and backend of this project on GitHub:</p>
     <ul>
       <li>
-        <a href="https://github.com/iwezix/deonopedia-frontend" target="_blank"
+        <a href="https://github.com/IweZix/demonopedia" target="_blank"
           >Frontend Repository</a
         >
       </li>
