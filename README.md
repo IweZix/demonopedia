@@ -1,18 +1,14 @@
-# vue-project
+# Demonopedia
 
-This template should help get you started developing with Vue 3 in Vite.
+Déonopedia is an exciting project aimed at bringing together all the characters from the anime **Demon Slayer** on one website. Here, you will find detailed information about the characters, their appearances, and their roles in the anime. This site was created with the goal of learning and mastering a new technology: Vue.js.
 
-## Recommended IDE Setup
+## Why this project?
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+I wanted to create a place where fans can find detailed information about their favorite characters. This project also allowed me to dive into Vue.js, a technology I have wanted to learn for some time. Working on this site has allowed me to combine my passion for anime with my desire to acquire new web development skills.
 
-## Type Support for `.vue` Imports in TS
+## Why vue.js?
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Because I wanted to learn a new technology, and Vue.js is a popular JavaScript framework that is easy to learn and use. Vue.js is also known for its simplicity and flexibility, making it an excellent choice for building interactive web applications.
 
 ## Project Setup
 
@@ -24,16 +20,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
