@@ -3,7 +3,7 @@ import { renderPageTitle } from '@/utils/render/render';
 import { fetchPersonnages } from '@/services/personnageService';
 import Personnage from '@/types/Personnage';
 import VanillaTilt from '@/scripts/vanilla-tilt';
-import router from '@/router/router';
+import CardComponent from '@/components/card/CardComponent.vue';
 
 export default {
   /**
@@ -20,6 +20,10 @@ export default {
       error: false as boolean,
       isLoading: false as boolean
     };
+  },
+
+  components: {
+    CardComponent
   },
 
   /**
@@ -49,24 +53,6 @@ export default {
         });
       }
     });
-  },
-
-  /**
-   * Methods of the component
-   * Usable in the template
-   */
-  methods: {
-    aboutButtonHandler: function (id: number) {
-      if (id === null || id < 0 || !this.personnages || id > this.personnages.length) {
-        return;
-      }
-      router.push({
-        name: 'Personnage',
-        params: {
-          id: id
-        }
-      });
-    }
   }
 };
 </script>
@@ -86,23 +72,11 @@ export default {
         </div>
         <div v-else-if="personnages" class="container">
           <div class="row">
-            <div v-for="personnage in personnages" :key="personnage.id" class="col-md-3">
-              <div class="card mb-4">
-                <img :src="personnage.image" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">
-                    {{ personnage.name }} {{ personnage.pillar ? '♖' : '' }}
-                  </h5>
-                  <p class="card-apparition">
-                    Season {{ personnage.apparition_season }} episode
-                    {{ personnage.apparition_episode }}
-                  </p>
-                  <button v-on:click="aboutButtonHandler(personnage.id)" class="btn btn-primary">
-                    About
-                  </button>
-                </div>
-              </div>
-            </div>
+            <CardComponent
+              v-for="personnage in personnages"
+              :key="personnage.id"
+              :personnage="personnage"
+            />
           </div>
         </div>
       </div>
