@@ -1,0 +1,22 @@
+
+@baseUrl = http://localhost:3000
+
+### Read all personnages
+GET {{baseUrl}}/personnages
+
+### Read personnages by id
+GET {{baseUrl}}/personnages/1
+
+### Read all personnages ordered by name asc
+GET {{baseUrl}}/personnages/name-ascending
+
+### Read all personnages ordered by name desc
+GET {{baseUrl}}/personnages/name-descending
+
+### Read all personnages by name
+GET {{baseUrl}}/personnages/search
+Content-Type: application/json
+
+{
+    "name":"Kamado"
+}
