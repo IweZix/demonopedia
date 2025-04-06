@@ -7,7 +7,9 @@ import Personnage from '@/types/Personnage';
  */
 export async function fetchPersonnages(): Promise<Personnage[]> {
   try {
-    const response = await axios.get('/api/personnages');
+    console.log(`${process.env.VITE_BACKEND_URL}/personnages`);
+    
+    const response = await axios.get(`${process.env.VITE_BACKEND_URL}/personnages`);
     return response.data;
   } catch (error) {
     throw new Error('An error occurred while fetching personnages');
