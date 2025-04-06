@@ -1,0 +1,800 @@
+[
+    {
+        "id": 0,
+        "name": "Tanjiro Kamado",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "This is the description of Tanjiro Kamado",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 1,
+        "name": "Nezuko Kamado",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 2,
+        "name": "Kie Kamado",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Shigeru Kamado",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Hanako Kamado",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "Takeo Kamado",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "name": "Rokuta Kamado",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "name": "Saburo Kamado",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "name": "Giyu Tomioka",
+        "apparition_season": 1,
+        "apparition_episode": 1,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 10,
+        "name": "Démon du temple",
+        "apparition_season": 1,
+        "apparition_episode": 2,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 11,
+        "name": "Sakonji Urokodaki",
+        "apparition_season": 1,
+        "apparition_episode": 2,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 12,
+        "name": "Sabito",
+        "apparition_season": 1,
+        "apparition_episode": 3,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 13,
+        "name": "Makomo",
+        "apparition_season": 1,
+        "apparition_episode": 3,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 14,
+        "name": "Kanao Tsuyuri",
+        "apparition_season": 1,
+        "apparition_episode": 4,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 15,
+        "name": "Zenitsu Agatsuma",
+        "apparition_season": 1,
+        "apparition_episode": 4,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 16,
+        "name": "Genya Shinazugawa",
+        "apparition_season": 1,
+        "apparition_episode": 4,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 17,
+        "name": "Kiriya Ubuyashiki",
+        "apparition_season": 1,
+        "apparition_episode": 4,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 18,
+        "name": "Kanata Ubuyashiki",
+        "apparition_season": 1,
+        "apparition_episode": 4,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 19,
+        "name": "Démon Main",
+        "apparition_season": 1,
+        "apparition_episode": 4,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 21,
+        "name": "Kagaya Ubuyashiki",
+        "apparition_season": 1,
+        "apparition_episode": 5,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 22,
+        "name": "Hotaru Haganezuka",
+        "apparition_season": 1,
+        "apparition_episode": 5,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 23,
+        "name": "Kazumi",
+        "apparition_season": 1,
+        "apparition_episode": 5,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 24,
+        "name": "Démon des Marais",
+        "apparition_season": 1,
+        "apparition_episode": 6,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 25,
+        "name": "Muzan Kibutsuji",
+        "apparition_season": 1,
+        "apparition_episode": 6,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 26,
+        "name": "Rei",
+        "apparition_season": 1,
+        "apparition_episode": 7,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 27,
+        "name": "Tamayo",
+        "apparition_season": 1,
+        "apparition_episode": 8,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 28,
+        "name": "Yushiro",
+        "apparition_season": 1,
+        "apparition_episode": 8,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 29,
+        "name": "Susamaru",
+        "apparition_season": 1,
+        "apparition_episode": 9,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 30,
+        "name": "Yahaba",
+        "apparition_season": 1,
+        "apparition_episode": 9,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 31,
+        "name": "Shoichi",
+        "apparition_season": 1,
+        "apparition_episode": 11,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 32,
+        "name": "Teruko",
+        "apparition_season": 1,
+        "apparition_episode": 11,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 33,
+        "name": "Kyogai",
+        "apparition_season": 1,
+        "apparition_episode": 11,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "lower_moon": true
+    },
+    {
+        "id": 34,
+        "name": "Inosuke Hashibira",
+        "apparition_season": 1,
+        "apparition_episode": 11,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 35,
+        "name": "Kiyoshi",
+        "apparition_season": 1,
+        "apparition_episode": 12,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 36,
+        "name": "Démon à la langue",
+        "apparition_season": 1,
+        "apparition_episode": 12,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 37,
+        "name": "Démon à la corne",
+        "apparition_season": 1,
+        "apparition_episode": 12,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 39,
+        "name": "Chachamaru",
+        "apparition_season": 1,
+        "apparition_episode": 13,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 40,
+        "name": "Hisa",
+        "apparition_season": 1,
+        "apparition_episode": 14,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 41,
+        "name": "Grande soeur araignée démon",
+        "apparition_season": 1,
+        "apparition_episode": 15,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 42,
+        "name": "Père araignée démon",
+        "apparition_season": 1,
+        "apparition_episode": 15,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 43,
+        "name": "Mère araignée démon",
+        "apparition_season": 1,
+        "apparition_episode": 15,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 44,
+        "name": "Murata",
+        "apparition_season": 1,
+        "apparition_episode": 15,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 47,
+        "name": "Shinobu Kocho",
+        "apparition_season": 1,
+        "apparition_episode": 15,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 48,
+        "name": "Rui",
+        "apparition_season": 1,
+        "apparition_episode": 15,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "lower_moon": true
+    },
+    {
+        "id": 49,
+        "name": "Ozaki",
+        "apparition_season": 1,
+        "apparition_episode": 16,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 50,
+        "name": "Grand frère araignée démon",
+        "apparition_season": 1,
+        "apparition_episode": 16,
+        "description": "",
+        "image": "",
+        "demon": true
+    },
+    {
+        "id": 51,
+        "name": "Jigorō Kuwajima",
+        "apparition_season": 1,
+        "apparition_episode": 17,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 52,
+        "name": "Kaigaku",
+        "apparition_season": 1,
+        "apparition_episode": 17,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "upper_moon": true
+    },
+    {
+        "id": 53,
+        "name": "Kotoha Hashibira",
+        "apparition_season": 1,
+        "apparition_episode": 18,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 54,
+        "name": "Tengen Uzui",
+        "apparition_season": 1,
+        "apparition_episode": 21,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 55,
+        "name": "Mitsuri Kanroji",
+        "apparition_season": 1,
+        "apparition_episode": 21,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 56,
+        "name": "Kyojuro Rengoku",
+        "apparition_season": 1,
+        "apparition_episode": 21,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 57,
+        "name": "Muichiro Tokito",
+        "apparition_season": 1,
+        "apparition_episode": 21,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 58,
+        "name": "Gyomei Himejima",
+        "apparition_season": 1,
+        "apparition_episode": 21,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 59,
+        "name": "Obanai Iguro",
+        "apparition_season": 1,
+        "apparition_episode": 22,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 60,
+        "name": "Sanemi Shinazugawa",
+        "apparition_season": 1,
+        "apparition_episode": 22,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 61,
+        "name": "Aoi Kanzaki",
+        "apparition_season": 1,
+        "apparition_episode": 23,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 62,
+        "name": "Kiyo Terauchi",
+        "apparition_season": 1,
+        "apparition_episode": 23,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 63,
+        "name": "Naho Takada",
+        "apparition_season": 1,
+        "apparition_episode": 24,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 64,
+        "name": "Sumi Nakahara",
+        "apparition_season": 1,
+        "apparition_episode": 24,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 65,
+        "name": "Kanae Kocho",
+        "apparition_season": 1,
+        "apparition_episode": 24,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 66,
+        "name": "Kozo Kanamori",
+        "apparition_season": 1,
+        "apparition_episode": 25,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 67,
+        "name": "Nakime",
+        "apparition_season": 1,
+        "apparition_episode": 26,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "upper_moon": true
+    },
+    {
+        "id": 68,
+        "name": "Kamanue",
+        "apparition_season": 1,
+        "apparition_episode": 26,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "lower_moon": true
+    },
+    {
+        "id": 69,
+        "name": "Enmu",
+        "apparition_season": 1,
+        "apparition_episode": 26,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "lower_moon": true
+    },
+    {
+        "id": 70,
+        "name": "Rokuro",
+        "apparition_season": 1,
+        "apparition_episode": 26,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "lower_moon": true
+    },
+    {
+        "id": 71,
+        "name": "Wakuraba",
+        "apparition_season": 1,
+        "apparition_episode": 26,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "lower_moon": true
+    },
+    {
+        "id": 72,
+        "name": "Mukago",
+        "apparition_season": 1,
+        "apparition_episode": 26,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "lower_moon": true
+    },
+    {
+        "id": 73,
+        "name": "Kirisaki",
+        "apparition_season": 2,
+        "apparition_episode": 27,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 74,
+        "name": "Fuku",
+        "apparition_season": 2,
+        "apparition_episode": 27,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 75,
+        "name": "Grand mère de Fuku",
+        "apparition_season": 2,
+        "apparition_episode": 27,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 76,
+        "name": "Tatsu",
+        "apparition_season": 2,
+        "apparition_episode": 27,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 77,
+        "name": "Mère de Fuku",
+        "apparition_season": 2,
+        "apparition_episode": 27,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 78,
+        "name": "Shinjurô Rengoku",
+        "apparition_season": 2,
+        "apparition_episode": 29,
+        "description": "",
+        "image": "",
+        "pillar": true,
+        "demon_slayer": true
+    },
+    {
+        "id": 79,
+        "name": "Senjuro Rengoku",
+        "apparition_season": 2,
+        "apparition_episode": 29,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 80,
+        "name": "Daki",
+        "apparition_season": 2,
+        "apparition_episode": 30,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "upper_moon": true
+    },
+    {
+        "id": 81,
+        "name": "Akaza",
+        "apparition_season": 2,
+        "apparition_episode": 30,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "upper_moon": true
+    },
+    {
+        "id": 82,
+        "name": "Kokushibo",
+        "apparition_season": 2,
+        "apparition_episode": 32,
+        "description": "",
+        "image": "",
+        "demon" : true,
+        "upper_moon": true
+    },
+    {
+        "id": 83,
+        "name": "Gyokko",
+        "apparition_season": 2,
+        "apparition_episode": 32,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "upper_moon": true
+    },
+    {
+        "id": 84,
+        "name": "Doma",
+        "apparition_season": 2,
+        "apparition_episode": 32,
+        "description": "",
+        "image": "",
+        "demon": true,
+        "upper_moon": true
+    },
+    {
+        "id": 85,
+        "name": "Ruka Rengoku",
+        "apparition_season": 2,
+        "apparition_episode": 33,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 86,
+        "name": "Amane Ubuyashiki",
+        "apparition_season": 2,
+        "apparition_episode": 33,
+        "description": "",
+        "image": "",
+        "demon_slayer": true
+    },
+    {
+        "id": 87,
+        "name": "Kakushi",
+        "apparition_season": 3,
+        "apparition_episode": 34,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 88,
+        "name": "Koinatsu",
+        "apparition_season": 3,
+        "apparition_episode": 35,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 89,
+        "name": "Makio",
+        "apparition_season": 3,
+        "apparition_episode": 35,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 90,
+        "name": "Omitsu",
+        "apparition_season": 3,
+        "apparition_episode": 36,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 91,
+        "name": "Hinatruru",
+        "apparition_season": 3,
+        "apparition_episode": 38,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 92,
+        "name": "Suma",
+        "apparition_season": 3,
+        "apparition_episode": 38,
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 93,
+        "name": "Gyutaro",
+        "apparition_season": 3,
+        "apparition_episode": 42,
+        "description": "",
+        "image": ""
+    }
+]
+       
+
