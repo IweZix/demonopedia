@@ -4,6 +4,8 @@ import vue from '@vitejs/plugin-vue'
 import dotenv from 'dotenv'
 dotenv.config()
 
+console.log(`VITE_BACKEND_URL: ${process.env.VITE_BACKEND_URL}`);
+
 export default defineConfig({
   plugins: [
     vue(),
