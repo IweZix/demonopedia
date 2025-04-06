@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const corsOptions = {
-  origin: ['http://localhost:8080', 'https://demonopedia.iwezix.xyz'],
+  origin: ['http://localhost:8080', 'https://demonopedia.iwezix.xyz', '*'],
 };
 
 const personnageRouter = require('./routes/personnages');
