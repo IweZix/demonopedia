@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const corsOptions = {
-  origin: ['http://localhost:8080'],
+  origin: ['http://localhost:8080', 'https://demonopedia.iwezix.xyz'],
 };
 
 const personnageRouter = require('./routes/personnages');
@@ -23,6 +23,5 @@ app.use(cors(corsOptions));
 app.use('/personnages', personnageRouter);
 
 console.log(`Server started on port ${process.env.PORT || 3000}`);
-
 
 module.exports = app;
