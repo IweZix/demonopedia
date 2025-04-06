@@ -7,7 +7,7 @@ import Personnage from '@/types/Personnage';
  */
 export async function fetchPersonnages(): Promise<Personnage[]> {
   try {
-    const response = await axios.get(`${process.env.VITE_BACKEND_URL}/personnages`);
+    const response = await axios.get('/api/personnages');
     return response.data;
   } catch (error) {
     throw new Error('An error occurred while fetching personnages');
@@ -21,7 +21,7 @@ export async function fetchPersonnages(): Promise<Personnage[]> {
  */
 export async function fetchPersonnageById(id: number): Promise<Personnage> {
   try {
-    const response = await axios.get(`${process.env.VITE_BACKEND_URL}/personnages/${id}`);
+    const response = await axios.get(`/api/personnages/${id}`);
     return response.data;
   } catch (error) {
     throw new Error('An error occurred while fetching personnage');
