@@ -1,6 +1,8 @@
 import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
+import dotenv from 'dotenv'
+dotenv.config()
 
 export default defineConfig({
   plugins: [
@@ -15,7 +17,7 @@ export default defineConfig({
     proxy: {
       '/api': {
         // replace with the URL of the backend server
-        target: 'http://localhost:3000',
+        target: `${process.env.VITE_BACKEND_URL}`,
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, '')
       }
