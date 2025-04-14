@@ -23,7 +23,7 @@ export async function fetchPersonnages(): Promise<Personnage[]> {
  */
 export async function fetchPersonnageById(id: number): Promise<Personnage> {
   try {
-    const response = await axios.get(`/api/personnages/${id}`);
+    const response = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/personnages/${id}`);
     return response.data;
   } catch (error) {
     throw new Error('An error occurred while fetching personnage');
